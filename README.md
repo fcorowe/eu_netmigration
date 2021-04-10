@@ -6,7 +6,7 @@
 
 This site displays a map documenting the patterns of net internal migration gains and losses across Europe. Net migration gains are in blue. Net losses are represented in red. Expand and interact with the map by clicking on the image. 
 
-The patterns shown in the map are discussed and documented in [Rowe et al. (2019)]( https://doi.org/10.12765/CPoS-2019-18). If you would like to replicate this map, find the relevant code and data on this [Github repository]()
+The patterns shown in the map are discussed and documented in [Rowe et al. (2019)]( https://doi.org/10.12765/CPoS-2019-18). If you would like to replicate this map, find the relevant code and data on this [Github repository](https://github.com/fcorowe/eu_netmigration).
 
 
 [![Internal migration gains and losses across Europe](./fig/fig1.png)](map.html)
