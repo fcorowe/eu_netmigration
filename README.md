@@ -6,7 +6,7 @@
 
 This repository contains the code and data to replicate the map below displaying the net balances of internal migration gains and losses across Europe. Expand, and interact with, the map by cliking on the image.
 
-[![Internal migration gains and losses across Europe](./fig/fig1.pnb)](map.html)
+[![Internal migration gains and losses across Europe](./fig/fig1.png)](map.html)
 
 ## Code
 
